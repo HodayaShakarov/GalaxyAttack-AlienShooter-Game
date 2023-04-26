@@ -1,0 +1,1 @@
+﻿target_include_directories (project_ElishevaRoi_HodayaShakarov PRIVATE ${CMAKE_CURRENT_LIST_DIR})
